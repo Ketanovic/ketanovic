@@ -1,5 +1,21 @@
 ### Hi there 👋
 
+I'm Armin Ketanovic, a Full-Stack Software engineer. Welcome to my Github profile!
+
+### - 🔭 I’m currently working on ...
+
+- [Scrumdiddly]: https://github.com/Ketanovic/Scrumpdiddly
+
+### - 🌱 I’m currently learning ...
+
+- I'm always eager to expand my knowledge and skills. Currently, I'm focused on learning AWS.
+
+### - 📫 How to reach me: ...
+
+- You can always reach me by my email: Ketanovic@icloud.com
+
+Thanks for visiting my GitHub profile!
+
 <!--
 **Ketanovic/ketanovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
